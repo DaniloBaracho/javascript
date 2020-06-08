@@ -1,0 +1,3 @@
+function butao(){
+    alert("clicar");
+}
